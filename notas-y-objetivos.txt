@@ -1,1 +1,2 @@
 Obejtivos: crear pagina bajo el alias de Byteme con el objetio de difundir informacion sobre la "empresa" y usarla como medio de recurso de informacion sobre sus participes
+objetivo: implementar una seccion de examenes y tareas pendientes de la carrera
