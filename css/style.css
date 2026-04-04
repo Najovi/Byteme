@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #1a1a1a;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    height: 100vh;
+}
+
+.titulo-principal {
+    margin: 0;
+    font-size: 6vw;
+    font-weight: 800;
+    color: #fff;
+    text-shadow: 0 0 10px rgba(255, 0, 0, 0.5), 0 0 20px rgba(255, 0, 0, 0.3);
+    line-height: 1.1;
+}
